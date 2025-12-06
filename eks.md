@@ -1,4 +1,3 @@
-✅ Final Script: AWS CLI + kubectl + eksctl (with unzip included)
 #!/bin/bash
 
 echo "==== Installing unzip package ===="
@@ -26,7 +25,8 @@ eksctl version
 
 echo "==== Installation Completed Successfully! ===="
 
+
 🚀 How to Use
-nano setup_eks_tools.sh
+vi setup_eks_tools.sh
 chmod +x setup_eks_tools.sh
 ./setup_eks_tools.sh
