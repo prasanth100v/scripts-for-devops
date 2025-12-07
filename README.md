@@ -3,5 +3,5 @@
 ```md
 
 vi eks tools setup.sh
-chmod +x setup_eks_tools.sh
-./setup_eks_tools.sh
+chmod +x eks tools setup.sh
+./eks tools setup.sh
