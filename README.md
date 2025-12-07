@@ -3,6 +3,3 @@
 nano setup_eks_tools.sh
 chmod +x setup_eks_tools.sh
 ./setup_eks_tools.sh
-
-
-If you want, I can also create:
