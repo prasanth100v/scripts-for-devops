@@ -24,9 +24,3 @@ sudo mv /tmp/eksctl /usr/local/bin/eksctl
 eksctl version
 
 echo "==== Installation Completed Successfully! ===="
-
-
-🚀 How to Use
-vi setup_eks_tools.sh
-chmod +x setup_eks_tools.sh
-./setup_eks_tools.sh
