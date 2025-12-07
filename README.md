@@ -10,9 +10,9 @@ chmod +x eks tools setup.sh
 eksctl delete cluster --name my-eks-cluster --region ap-south-1
 
 
----
 
-## 🧠 Easy Way to Remember
+## Easy Way to Remember
+```
 > **Whatever language you start with (`bash`, `yaml`, `md`, `json`) — you always END with only three backticks ` ``` `**
 
 ---
