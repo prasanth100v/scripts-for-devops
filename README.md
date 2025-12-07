@@ -2,6 +2,6 @@
 
 ```md
 
-vi setup_eks_tools.sh
+vi eks tools setup.sh
 chmod +x setup_eks_tools.sh
 ./setup_eks_tools.sh
