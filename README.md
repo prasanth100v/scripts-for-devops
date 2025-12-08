@@ -9,3 +9,7 @@ chmod +x eks tools setup.sh
 ```
 eksctl delete cluster --name my-eks-cluster --region ap-south-1
 ```
+## ✅ Create EKS Cluster using eksctl command
+```
+eksctl create cluster -f ekscluster.yml
+```
