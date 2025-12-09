@@ -17,3 +17,11 @@ eksctl delete cluster --name my-eks-cluster --region ap-south-1
 ```
 eksctl create cluster -f ekscluster.yml
 ```
+a
+```
+AKIA6GBMCBXV3M7NIPWW000000
+```
+s
+```
+bTgJl2rZYDLDr6EAllcs+N+ArqV6WqGRtMRS9fN9000000000
+```
