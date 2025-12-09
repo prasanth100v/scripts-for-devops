@@ -1,3 +1,7 @@
+## SSH Connection Command For GitBash Terminal:
+```
+ssh -i "your-key.pem" ec2-user@your-ec2-public-ip
+```
 ## ✅ scripts-for-devops (🚀 How to Use)
 ```
 vi eks tools setup.sh
