@@ -17,6 +17,14 @@ eksctl delete cluster --name my-eks-cluster --region ap-south-1
 ```
 eksctl create cluster -f ekscluster.yml
 ```
+#✅ Create an IAM OIDC provider in your AWS account
+#✅ Associate it with  (eks-cluster) = Enable IRSA (IAM Roles for Service Accounts)
+```
+eksctl utils associate-iam-oidc-provider \
+  --cluster eks-cluster \
+  --region ap-south-1 \
+  --approve
+```
 a
 ```
 AKIA6GBMCBXV3M7NIPWW000000
