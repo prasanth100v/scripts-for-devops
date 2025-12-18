@@ -11,7 +11,7 @@ chmod +x eks tools setup.sh
 
 ## ✅ Delete EKS Cluster using eksctl (Most Common)
 ```
-eksctl delete cluster --name my-eks-cluster --region ap-south-1
+eksctl delete cluster --name eks-cluster --region ap-south-1
 ```
 ## ✅ Create EKS Cluster using eksctl command
 ```
