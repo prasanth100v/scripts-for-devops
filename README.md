@@ -27,9 +27,9 @@ eksctl utils associate-iam-oidc-provider \
 ```
 a
 ```
-AKIA6GBMCBXV3M7NIPWW000000
+AKIA5327P5HQGHSJTYOD
 ```
 s
 ```
-bTgJl2rZYDLDr6EAllcs+N+ArqV6WqGRtMRS9fN9000000000
+pxXgdu5TYkHn9hQQ7lM1mp9duO10cG7Guf+/+XbD----------
 ```
